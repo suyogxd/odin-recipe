@@ -1,0 +1,45 @@
+body{
+    background-color: #BBC7CE;
+}
+
+.ingredients{
+    /* padding-left: 10%; */
+    text-align:center;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 45px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgba(0,0,0,0.2);
+}
+
+p{
+    font-size:20px;
+    padding-left:10%;
+    padding-right:10%;
+    line-height: 30px;
+}
+
+li{
+    font-size: 20px;
+    line-height: 30px;
+}
+ul{
+    padding-left: 45%;
+}
+
+ol{
+    padding-left: 11%;
+    padding-right: 11%;
+}
+
+
+
